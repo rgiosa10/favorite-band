@@ -1,26 +1,29 @@
 .image {
+  display: block;
   padding: 20px;
   border: solid rgb(201, 15, 15);
   border-width: 20px;
-  float: left;
-  margin: 30px;
+  margin: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
 }
 
 .sidebar {
   display: block;
-  float: right;
+  float: left;
   width: 30%;
   background-color: antiquewhite;
   border: dashed rgb(19, 19, 194);
   padding: 10px;
-  margin: 20px;
+  margin-right: 10px;
   text-align: center;
 }
 
 ul {
   list-style: none;
+  text-align: center;
 }
 
 p {
-  font-size: 3rem;
+  font-size: 2rem;
 }
