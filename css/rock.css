@@ -1,0 +1,35 @@
+html {
+  background: radial-gradient(circle, rgba(63,94,251,0.41780462184873945) 0%, rgba(252,70,107,0.5886729691876751) 100%);
+}
+
+.image {
+  width: 30%;
+  display: block;
+  float: left;
+  padding: 20px;
+  border: solid rgb(201, 15, 15);
+  border-width: 20px;
+  margin: auto;
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
+
+.div {
+  display: block;
+  margin-top: 10px;
+  margin-bottom: 50px;
+}
+
+h2 {
+  display: block;
+  font-size: 4rem;
+  background: -webkit-linear-gradient(90deg, rgba(251,63,63,1) 0%, rgba(97,70,252,1) 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  float: inline-start;
+}
+
+p {
+  font-size: 1rem;
+  margin-bottom: 50px;
+}
