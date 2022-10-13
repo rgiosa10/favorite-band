@@ -4,20 +4,20 @@ html {
 
 .image {
   width: 30%;
-  display: block;
-  float: left;
+  display: flex;
+  justify-content: left;
   padding: 20px;
   border: solid rgb(201, 15, 15);
   border-width: 20px;
-  margin: auto;
-  margin-right: 10px;
+  /* margin: auto; */
+  /* margin-right: 10px; */
   margin-bottom: 10px;
 }
 
 .div {
-  display: block;
+  display: flex;
   margin-top: 10px;
-  margin-bottom: 50px;
+  margin-bottom: 10px;
 }
 
 h2 {
